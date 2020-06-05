@@ -12,14 +12,12 @@
 
 ## <img alt="NextLevelWeek" title="#NextLevelWeek" src=".workspace/nlw.svg" width="24px" /> Next Level Week
 
-NLW is a practical week with lots of code, challenges, networking and a single objective: to take you to the next level.
-Through our method you will learn new tools, learn about new technologies and discover hacks that will boost your career.
-An online and completely free event that will help you take the next step in your evolution as a dev.
+NLW is a study week event taught by Rocketseat. 
+In this event is approached the best technologies to help devs to go to next level in their careers.
 
 ## 💻 Project
 
-Ecoleta is a project developed based on international environment week.
-That aims to connect people to companies that collect specific waste such as light bulbs, batteries, cooking oil, etc.
+Ecoleta is a project created with the purpose to connect people to companies whoe collects specific wate such as light bulbs, batteries, cooking oil and others. This project was reproduced following the NLW with studie purposes.
 
 ## 📦 Technologies
 
@@ -41,7 +39,7 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/andreciornavei/NLW-ecoleta
+$ git clone https://github.com/andreciornavei/NLW-1.0-ecoleta
 
 # Go into the repository
 $ cd NLW-1.0/backend
@@ -65,10 +63,10 @@ $ yarn dev
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/andreciornavei/NLW-ecoleta
+$ git clone https://github.com/andreciornavei/NLW-1.0-ecoleta
 
 # Go into the repository
-$ cd NLW-1.0/frontent
+$ cd NLW-1.0-ecoleta/frontent
 
 # Install dependencies
 $ yarn install
@@ -83,7 +81,7 @@ $ yarn start
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/andreciornavei/NLW-ecoleta
+$ git clone https://github.com/andreciornavei/NLW-1.0-ecoleta
 
 # Go into the repository
 $ cd NLW-1.0/mobile
@@ -103,7 +101,7 @@ $ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
 
 ## 📜 License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/andreciornavei/NLW-ecoleta/blob/master/LICENSE) for details.
+This project is under the MIT license. See the [LICENSE](https://github.com/andreciornavei/NLW-1.0-ecoleta/blob/master/LICENSE) for details.
 
 Reproduced by André Ciornavei - [Get in touch!](https://www.linkedin.com/in/andreciornavei/)
 
